@@ -10,4 +10,4 @@ for folderName, subfolders, filenames in os.walk('Z:\\Users\\James\\Desktop'):
             print (i)
             fileCount += 1
 print ("The number of ", extension, "files is", fileCount)
-
+# comment to see if changes are highlighted individually in files
